@@ -1,7 +1,6 @@
 ## Hi there,Hamandres here 👋
-I'm currently working on citation project using GCNN.
-I'm doing masters in Data Science.
-I'm learning AI/ML mostly, but open to others fields too, i have a fling with cryptography.
+Done with my masters in data science.
+now doing my personal endevour with SDE (still learning).
 Contacts: asim_work@outlook.com
 
 <!--
