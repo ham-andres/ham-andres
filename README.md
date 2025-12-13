@@ -2,6 +2,9 @@
 Done with my masters in data science.
 now doing my personal endevour with SDE (still learning).
 Contacts: asim_work@outlook.com
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/98406d71-504c-4d14-8cf9-eba50348968e/thumbnail" >
+</p>
 
 <!--
 **ham-andres/ham-andres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
