@@ -1,6 +1,26 @@
 ## Hi there,Asim (Hamandres) here 👋
-- Masters in data science (AI/ML). 
-- Doing Software Development (Backend), also learning from boot dev
+I'm Graduate at Computer Science and Engineering, 
+Post Graduate at Data Science and Engineering.
+- Masters in data science (AI/ML).
+
+## About Me
+- Doing Software Development (Backend), also learning from boot dev and buiding project.
+
+Tools and Experience:
+  -  Python
+  -  Go
+  -  SQL
+  -  C++
+### AI/ML related:
+    -  Libraries used in data science (like: Numpy, scikit-learn, networkx, etc)
+    -  Have done project on LSTM, CNN, GCNN etc.
+
+## Projects
+-- Personal Project 
+- In Bachelors thesis - NLP with supervised learning model (Pos tagging for regional language)
+- In Master's thesis - GCNN (Citation Prediction using Temporal Graph convolution over Dynamic graph signal)
+
+## Contacts
 - Contacts: Connect with me in LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asim-ray-72076a205/)
 - email - asimr6@proton.me
 - Below image is my Backend Learning update.
