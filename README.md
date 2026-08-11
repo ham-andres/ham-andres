@@ -24,7 +24,7 @@ Tools and Experience:
 ## Contacts
 - Contacts: Connect with me in LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asim-ray-72076a205/)
 - email - asimr6@proton.me
-- preferred codewars compared to leetcode: https://www.codewars.com/users/ZengisDragon/badges/small
+- preferred codewars compared to leetcode: [<p align="left"> <img src="https://www.codewars.com/users/ZengisDragon/badges/small"> </p>]
 - Below image is my Backend Learning update.
 [<p align="left">
   <img src="https://api.boot.dev/v1/users/public/98406d71-504c-4d14-8cf9-eba50348968e/thumbnail" >
