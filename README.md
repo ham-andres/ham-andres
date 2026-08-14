@@ -1,6 +1,7 @@
 ## Hi there,Asim (Hamandres) here 👋
 I'm Graduate at Computer Science and Engineering, 
 Post Graduate at Data Science and Engineering.
+love learning programming and wonder how all the people create amazing projects.
 - Masters in data science (AI/ML).
 
 ## About Me
