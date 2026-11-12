@@ -1,11 +1,13 @@
 ## Hi there,Asim (Hamandres) here 👋
 I'm Graduate at Computer Science and Engineering, 
-Post Graduate at Data Science and Engineering.
-love learning programming and wonder how all the people create amazing projects.
-- Masters in data science (AI/ML).
+Post Graduate at Data Science and Engineering. Enjoyed academic but never build a real project.
+no prior experience in development, so i decided to give time in learning the gamified,
+project-based curriculum to gain practical insights and tackle real-world backend challenges.
 
 ## About Me
-- Doing Software Development (Backend), also learning from boot dev and buiding project.
+- Enjoy reading books (Animal Farm, 1984, Man's search for meaning, recent interest i developed i am proud)
+- Tech book: Writing an Interpreter in Go.
+- i am aiming for developer job with small team working in interesting project. making myself suitable for the team.
 
 Tools and Experience:
   -  Python
